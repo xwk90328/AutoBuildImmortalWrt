@@ -74,6 +74,7 @@ PACKAGES="$PACKAGES luci-app-netspeedtest
 PACKAGES="$PACKAGES luci-app-passwall2
 PACKAGES="$PACKAGES luci-app-nikki
 PACKAGES="$PACKAGES luci-theme-kucat
+PACKAGES="$PACKAGES luci-app-amlogic
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
